@@ -11,5 +11,5 @@
 </html>
 
 <?php
-echo"<h3> We are dealing with PHP</H3>";
+echo"<h3> We are dealing with git-code</H3>";
 />
